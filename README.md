@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg"></p>
+<p align="center"><img src="logo.svg" width="100px" height="100px"></p>
 
 
 # MamboCoin smart contract
@@ -16,7 +16,7 @@
 ## How to manage contract
 To start working with contract you should follow next steps:
 
-Compile it in Remix with enamble optimization flag and compiler 0.4.19
+Compile it in Remix without enamble optimization flag and compiler 0.4.24
 Deploy bytecode with MyEtherWallet.
 Call 'deploy' function on addres from (3).
 
